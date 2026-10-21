@@ -16,4 +16,4 @@ Requires [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 docker compose up --build
 ```
 
-Then open http://localhost:5000 and refresh to watch the count go up. Stop it with `docker compose down`; the count is kept the next time you start it.
+Then open http://localhost:5000 and refresh to watch the count go up. Stop it with `docker compose down`; the count is kept the next time you start it. 
